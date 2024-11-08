@@ -34,9 +34,5 @@ int main() {
   Matrix *mat4 = mat_set_new(2, 1, vals);
   mat_print(mat4, "using set");
 
-  // Matrix *mat2 = mat_rand(4, 8);
-  // mat_print(mat2);
-
-
   return 0;
 } 

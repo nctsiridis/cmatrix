@@ -1,2 +1,2 @@
 # CMatrix
-A version of CMatrix implemented with Conan.
+A conan package for working with matrices in C.

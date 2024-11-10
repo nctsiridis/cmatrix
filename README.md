@@ -1,2 +1,2 @@
 # CMatrix
-A conan package for working with matrices in C.
+A Conan package for working with matrices in C.

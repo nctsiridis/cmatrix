@@ -1,0 +1,42 @@
+# Build directories
+build/
+test_package/build/
+
+# Conan-generated files
+build/**/generators/
+test_package/build/**/generators/
+conanbuildinfo.* 
+conaninfo.txt
+graph_info.json
+build/**/conan*.sh
+test_package/build/**/conan*.sh
+
+# CMake-generated files
+CMakeUserPresets.json
+CMakeFiles/
+CMakeCache.txt
+*.cmake
+cmake_install.cmake
+Makefile
+test_package/CMakeUserPresets.json
+test_package/build/**/CMakeFiles/
+test_package/build/**/CMakeCache.txt
+test_package/build/**/cmake_install.cmake
+test_package/build/**/Makefile
+
+# Temporary files
+*.o
+*.obj
+*.a
+*.lib
+*.lo
+*.la
+
+# Logs and other temporary files
+*.log
+*.tmp
+*.swp
+*.d
+
+# Executables
+test_package/build/**/example

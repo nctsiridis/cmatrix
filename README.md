@@ -1,2 +1,2 @@
 # cmatrix
-A library working with matrices in in C.
+A library working with 2 dimensional matrices in in C.

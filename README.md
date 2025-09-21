@@ -1,2 +1,2 @@
 # cmatrix
-A simple C library for working with dynamically allocated 2D matrices.
+Simple C library providing dynamically allocated 2D matrices.

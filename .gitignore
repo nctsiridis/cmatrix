@@ -1,3 +1,5 @@
 *.o
 program
 *.sh
+build/
+Makefile

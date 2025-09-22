@@ -1,9 +1,4 @@
-#include "matrix.h"
-#include <stdio.h>
-#include <stdlib.h>
-#include <math.h>
-#include <assert.h>
-
+#include "cmatrix.h"
 // result of void operations will push into the last matrix param
 
 void mat_put(Matrix *mat_a, Matrix *mat_b) {

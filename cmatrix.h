@@ -1,5 +1,10 @@
-#ifndef MODULE_H
-#define MODULE_H
+#ifndef CMATRIX_H
+#define CMATRIX_H
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <math.h>
+#include <assert.h>
 
 typedef struct {
   int m;
